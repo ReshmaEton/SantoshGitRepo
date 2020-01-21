@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Target Relationship</name>
+   <tag></tag>
+   <elementGuidId>599e71e1-edc8-4681-b9a7-a7b2728fed2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name='relationship'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-untouched ng-valid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>!editing</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>relationship</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>changeRelationship()</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-options</name>
+      <type>Main</type>
+      <value>item.id as item.name for item in lookupData.rdt_row_id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>projectSummaryVals.rdt_row_id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABC Asset Test RelationshipAdminafretertggAgAndrew FamilyAppleOmniAQW AutomationAQW AutomationasadstestrasdAsset Retest 1Atlas 5 VenturesAuto1Auto1Auto10Auto10Auto10Auto10Auto10Auto11Auto12Auto13Auto14Auto14Auto14Auto15Auto16Auto17Auto17Auto18Auto19Auto2Auto20Auto20Auto20Auto21Auto23Auto23Auto24Auto25Auto25Auto26Auto3Auto3Auto3Auto3Auto3Auto3Auto3Auto4Auto4Auto4Auto4Auto4Auto4Auto5Auto6Auto6Auto6Auto6Auto6Auto6Auto6Auto6Auto6Auto6Auto6Auto7Auto7Auto7Auto8Auto8Auto9Auto9Auto9Auto9Auto9Automation_FlowAutomation1109Automation12121Automation12121Automation12121Automation12121Automation12121Automation12121Automation12121Automation12121Automation12121Automation41Automation41Automation41Automation42Automation421Automation423Automation424Automation424Automation425Automation426Automation427Automation428Automation429Automation430Automation431Automation432Automation435Automation435Automation436Automation44545Automation44545Automation44545Automation44545Automation44545Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation44555Automation451258Automation451258Automation451258Automation451258Automation451258Automation451258Automation451258Automation451258Automation451258Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation45454Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation4564564Automation45963Automation45963Automation45963Automation45963Automation45963Automation45963Automation45963Automation45963Automation46Automation46Automation49124Automation49124Automation50Automation50Automation50Automation50Automation50Automation51Automation52Automation53Automation53Automation53Automation54Automation55Automation56Automation56Automation56Automation57Automation57Automation59Automation60Automation61Automation61Automation62Automation62Automation62Automation63Automation63Automation64Automation65Automation66Automation66Automation67Automation68Automation69Automation70Automation71Automation71Automation71Automation71Automation72Automation72Automation73Automation73Automation74Automation75Automation76Automation77Automation78Automation79Automation80Automation81Automation81Automation81Automation81Automation81Automation81Automation8974542Automation8974542Automation8974542Automation8974542Automation8974542Automation8974542Automation8974542Automation8974542Automation8974542bBangaloreBank ReconcilationbbmBLRAuto81BLRAuto82bmwbmw2bmw3BNM AutomationBPS TestBrown FamilyBulk 500BULK ANHBulk GLBulk uploadBVM AutomationCanada ClientsCanada123CanadaAvg2Canadian Imperial Bank of Commerce - CIBCCanadianAveTest1CanadianAveTest2CanadianAveTest3CanadianAveTest4CanadianAveTest5CanadianAveTest6CanadianTax1CanadianTest10CanadianTest2CanadianTest3CanadianTest4CanadianTest5CanadianTest6CanadianTest7CanadianTest8CanadianTest9CanadianWarning01CanadianWarning01Candian Avg1Capital commitmentCAR test 1CAR test 2CelloClient SONI1Collette ConradcoworkDell FamilyDell IncDeloitte FamilyDKS FUNDDo GoodDXC Futures Merchante1EFE AutomationEIE AutomationEMC IncERP AutomationEton Futures MerchantEton SolutionsEventReports1EventsSampleEventsTest1EventsTest2EventsTest3EventsTest4EventsTest5EventsTest6EventsTest7EventsTest8ExpenseJournal19Expensetest2Expensetesting1Explorer AdvisorsfFEE AutomationfffgfhgjkfgtFin AutomationFinancial InstitutionFred FirestoneFund ACC Bermuda CorporationFund ACC BVI Company Limited by SharesFund ACC C-CorporationFund ACC General PartnershipFund ACC Limited Liability CompanyFund ACC Limited PartnershipFund ACC S-CorporationFund AcctAFund Relationship - alternateGalaxy AdvisorsgfgyufGilchrist FamilyGOAGoogle FamilyGraham FamilyGreat West PlainsHayden FamilyHEDGE FUND COMPANYHomeAuto15HomeAuto16HomeAuto19HomeAuto20HomeAuto29HomeAuto30HomeAuto33HomeAuto34HomeProject1HomeProject2HomeProject3HomeProject4HomeProject5HonorHP FamilyHRX FamilyHuntington DataFeed1Huntington DataFeed2Huntington Feed1Huntington Feed1Huntington Feed2Huntington FeedR1Huntington FeedR103Huntington FeedR1041IBM Futures MerchantIgnoreIKJ AutomationInfy FamilyInstitutiontestITY AutomationJimenez FamilyJohnson FamilyJournalEntry1RJournalEntry2RKellyKGM AutomationKPMG Futures MerchantKTM AutomationLeightonLenovo FamilyLillisLPH AutomationManualEventReport1Markus FamilyMellon DatafeedMellon Datafeed103Mellon Datafeed31Mellon TestMellon Test1Merge1MJU AutomationMJU AutomationMKL AutomationmmmmnbMNB AutomationMNH AutomationMNH AutomationMulticurrencyReports1MulticurrencyReports1MulticurrencyReports1MulticurrencyReports1MulticurrencyReports1Myntra FuturesNew PartnerNew Test FundNewExpenseRNorthern Datafeed103NT TestNullOffice of the PartnerOmni Index TestOmniBus01OmniBus01OmniBus02OmniBusRel1OmniBusRel2Open FinanceROpen FinanceROpen FinanceROpen FinanceROpen FinanceROpen FinanceROpen FinanceROpen FinanceR103Open FinanceR107Open FinanceR1071OPTIT AdvisorOrange Apple FundsOrangeTelecom1Orchard Real Estate CompanyPamela BrownPaula ParkPeter PartnerPIE AutomationPie in the Sky PE FirmPlexusPLJ AutomationPNY Futures MerchantPomme Hedge FundPray FamilyprofileaPW FamilyqqQC1QC2reebokRiviera FamilyRobert RedstoneRTE AutomationssSachin FamilySamsungOmnisansansan2san3san5sanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomationssanAutomations1sathish kiranSBI Futures MerchantSchwab107Schwab107sdfsdfsdfsdgfSDGsdwfdewdeSept_26Sewagh FamilySmithSolutionsSpl1 AutomationSpl2 AutomationSpl3 AutomationSpl4 AutomationsssSteven Stone, JDtTCS FamilyTeresa ThompsonTestTest 17Test Entity new fieldsTest FamilyTest Long History RelationshipTest MiddlewareTest Reltest relationshipTest Vendor-Bill PayTest Vendor-Utilitiestest28TestAuto39TestAuto40TestAuto41TestAuto42TestAuto43TestAuto81TestAuto82Testing Feature 1testR1TestRelationship1TestRelationship2TestRelationship3TestRelationship4TestRelationship5The Beach FamilyThe Pear FamilyToday 25 SeptemberToday PracticettttTUY AutomationTUY Automation45TypeaUBS Datafeed103USTest1vbnfdghfghVijay M FamilyvvvvvwweworkwheelsWRONG FamilyXissuexmasxyzyantraZee Automation28Zee Automation34</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prjInfoPane&quot;)/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/form[@class=&quot;ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control ng-pristine ng-untouched ng-valid&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>(//select[@name='relationship'])[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='prjInfoPane']/div/div/div[2]/form/div[2]/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target Relationship:'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner:'])[1]/following::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target Level:'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target:'])[1]/preceding::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[2]/form/div[2]/select</value>
+   </webElementXpaths>
+</WebElementEntity>

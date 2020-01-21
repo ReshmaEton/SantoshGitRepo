@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Expense management</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d9a2db6e-36ed-4822-9e07-f70188b77489</dataFileGUID>
+   <dataSourceUrl>C:\Users\Santosh.Kumar\Desktop\New folder (2)\AutomationTesting (1)\AutomationTesting\AutomationTesting\Testdata\Accountings_TestData\Expense management-Accounting Tab.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Expense_Management</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

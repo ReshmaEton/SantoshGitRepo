@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Holdings_Upload_VerifyInCrm</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>725ccd20-2ce2-4b87-8a11-495d6c253eb4</dataFileGUID>
+   <dataSourceUrl>C:\Users\Santosh.Kumar\Desktop\New folder (2)\AutomationTesting (1)\AutomationTesting\AutomationTesting\Testdata\Opearetions_TestData\Holdings_Upload_VerifyCrmAct.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Holding_Upload</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

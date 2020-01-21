@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>CRM</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>bfb9c595-6ea9-48bb-8eb7-37a0a45443f6</dataFileGUID>
+   <dataSourceUrl>C:\Users\Santosh.Kumar\Desktop\New folder (2)\AutomationTesting (1)\AutomationTesting\AutomationTesting\Testdata\CRM_Testdata\CRM.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>TestData</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

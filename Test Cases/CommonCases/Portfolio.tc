@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Portfolio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa62bd58-3822-4be5-a77e-e066a614dda4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2a837a92-d733-477c-9bbc-1900c7def60a</id>
+      <masked>false</masked>
+      <name>PortfolioName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37cc43a1-799b-4efa-8fbc-8e2c31fbc562</id>
+      <masked>false</masked>
+      <name>PortDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56bcd3c1-d3eb-4969-a79b-b213a505c044</id>
+      <masked>false</masked>
+      <name>PortfolioStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aebec9ed-4ad0-4f76-ae00-f40137f99575</id>
+      <masked>false</masked>
+      <name>PortfolioType</name>
+   </variable>
+</TestCaseEntity>
